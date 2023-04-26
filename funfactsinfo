@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="Styles/styles.css">
+    <title>Fun Facts</title>
+</head>
+<body>
+    <h1>Favorite Song</h1>
+    <a href="../indexx.html">Home Page</a>
+
+    <p>This is currently my favorite song. It is called Hotel By Claire Rosinkranz. I was able to go to her concert in February. She was not going to sing this song, but I started a chant. She came out and played it for us as her encore!</p>
+  
+  <div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/fMd5yadqznk" 
+    title="YouTube video player" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen></iframe>
+  </div>  
+</body>
+</html>
